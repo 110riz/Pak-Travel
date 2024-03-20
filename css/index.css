@@ -1,0 +1,82 @@
+.navbar-brand img {
+    height: 60px;
+    width: 80px;
+}
+
+.navbar {
+    background-color: #1487C4;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-nav {
+    font-size: 18px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+}
+
+#Card_hover {
+    border-radius: 7px;
+}
+
+#Card_hover p,
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Card_hover .fa-truck-pickup {
+    color: rgb(228, 131, 13);
+}
+
+#Card_hover .fa-camera {
+    color: #3c3636;
+}
+
+#Card_hover .fa-tent {
+    color: rgb(167, 79, 25);
+}
+
+#Card_hover:hover {
+    background-color: #1487C4;
+    color: rgb(255, 255, 255);
+}
+
+h2,
+h3,
+h5 {
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+#border_all_img {
+    border-radius: 5px;
+}
+
+.CardImg img {
+    border-radius: 50%;
+    height: 110px;
+    width: 110px;
+}
+
+footer {
+    background-color: #1487C4;
+    width: 100%;
+    height: 80px;
+    color: white;
+    font-weight: 600;
+    border-top: 1px solid #1487C4;
+}
+
+.fa-envelope,
+.fa-whatsapp {
+    font-size: 20px;
+}
+
+.fa-envelope {
+    color: #222;
+}
+
+.fa-whatsapp {
+    color: rgb(51, 200, 51);
+}
